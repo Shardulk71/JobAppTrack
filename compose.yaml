@@ -1,0 +1,6 @@
+﻿services:
+  jobapptrack:
+    image: jobapptrack
+    build:
+      context: .
+      dockerfile: Dockerfile

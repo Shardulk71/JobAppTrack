@@ -1,0 +1,16 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/
+/.github/workflows/
+.idea/
+*.sln.iml
+*.sln.DotSettings.user
+
+# NuGet packages
+*.nupkg
+.nuget/
+.rider/
+JobTrack.http

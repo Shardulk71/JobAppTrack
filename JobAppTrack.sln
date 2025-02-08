@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobAppTrack", "JobAppTrack.csproj", "{5D819F0B-8F52-434F-B276-4A9D1BDA0E56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{881D6D8C-D3E0-4CFF-9E77-68D071081EC1}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D819F0B-8F52-434F-B276-4A9D1BDA0E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D819F0B-8F52-434F-B276-4A9D1BDA0E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D819F0B-8F52-434F-B276-4A9D1BDA0E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D819F0B-8F52-434F-B276-4A9D1BDA0E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
