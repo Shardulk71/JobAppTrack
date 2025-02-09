@@ -14,3 +14,4 @@ riderModule.iml
 .nuget/
 .rider/
 JobTrack.http
+appsettings.Development.json
