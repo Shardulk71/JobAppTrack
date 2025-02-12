@@ -29,6 +29,11 @@ public class JobRepository : IJobRepository
     {
         await _context.Jobs.AddAsync(job);
     }
+    
+    public void DeleteJob(Job job)
+    {
+        _context.Jobs.Remove(job);
+    }
 
     public async Task SaveChangesAsync()
     {

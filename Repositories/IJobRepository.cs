@@ -8,4 +8,5 @@ public interface IJobRepository
     Task<Job?> GetJobByIdAsync(int jobId, int userId);
     Task AddJobAsync(Job job);
     Task SaveChangesAsync();
+    void DeleteJob(Job job);
 }
